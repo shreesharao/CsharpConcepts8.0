@@ -1,10 +1,15 @@
-﻿namespace CsharpConcepts8._0
+﻿using System;
+
+namespace CsharpConcepts8._0
 {
     class Program
     {
         static void Main(string[] args)
         {
-            new Topic1().Entry();
+            //new Topic1().Entry();
+            new Topic2().Entry();
+
+            Console.Read();
         }
     }
 }
