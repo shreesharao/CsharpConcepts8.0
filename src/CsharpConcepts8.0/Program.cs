@@ -7,7 +7,8 @@ namespace CsharpConcepts8._0
         static void Main(string[] args)
         {
             //new Topic1().Entry();
-            new Topic2().Entry();
+            //new Topic2().Entry();
+            new Topic3().Entry();
 
             Console.Read();
         }
