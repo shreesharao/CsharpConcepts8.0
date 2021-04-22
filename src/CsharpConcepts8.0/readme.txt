@@ -2,3 +2,4 @@
 Topic 2: Default interface methods
 Topic 3: Pattern matching enhancements
 Topic 4: Using declarations
+Topic 5: Static local functions
