@@ -12,8 +12,8 @@ namespace CsharpConcepts8._0
             //new Topic4().Entry();
             //new Topic5().Entry();
             //new Topic6().Entry();
-            new Topic7().Entry();
-
+            //new Topic7().Entry();
+            new Topic8().Entry();
             Console.Read();
         }
     }
