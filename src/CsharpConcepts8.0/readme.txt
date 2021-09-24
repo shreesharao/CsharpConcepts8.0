@@ -6,3 +6,4 @@ Topic 5: Static local functions
 Topic 6: Disposable ref structs
 Topic 7: Nullable reference types
 Topic 8: Asynchronous streams
+Topic 9: Asynchronous Disposable
